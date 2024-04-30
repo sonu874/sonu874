@@ -2,7 +2,7 @@
 - A B.Tech graduate from the Department of Electronics and Communications Engineering at National Institute of Technology, Durgapur, West Bengal, India.
 - 👀 I’m interested in working in the domains of Automotive Electronics, System Design for Computation problems, VLSI domain, and also Embedded Systems.
 - 🌱 I’m currently learning about Computer Organization and Architecture, Digital and Analog Electronics and VLSI Design. 
-- 💞️ I’m looking to collaborate on paid internships for a duration upto 6 months.
+
 - 📫 To work with me, you can mail me at soum19d@gmail.com or reach me at 9831330401.
 
 <!---
